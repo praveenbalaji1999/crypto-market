@@ -13,7 +13,7 @@ flutter run
 
 ### Backend connectivity
 
-The app tries backend URLs in this order:
+The app tries bhttps://www.google.com/searchavq=https%3A%2F%2Fgithub.com%2Fpraveenbalaji1999%2Fcrypto-market&sca_esv=91ccd04a4e9291c0&sxsrf=APpeQntDHfcKjSLuiOoKCyTZ2klx7PYhRw%3A1788163565171&ei=7TWVaq2MCt_vseMPvNm9wQg&biw=915&bih=905&uact=5&oq=https%3A%2F%2Fgithub.com%2Fpraveenbalaji1999%2Fcrypto-market&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmh0dHBzOi8vZ2l0aHViLmNvbS9wcmF2ZWVuYmFsYWppMTk5OS9jcnlwdG8tbWFya2V0MgUQABj9Aki9A1BWWFZwAHgEkAEAmAGTAaABkwGqAQMwLjG4AQPIAQD4AQL4AQGYAgSgAqUBwgIEEAAYR5gDAIgGAZAGCJIHAzMuMaAH7gGyBwMwLjG4B5cBwgcFMC4yLjLIBwuACAE&sclient=gws-wiz-serpackend URLs in this order:
 
 1. **Custom URL** — set with `--dart-define=API_BASE_URL=...`
 2. **Platform default** — Android emulator: `http://10.0.2.2:8000`; iOS simulator / desktop: `http://localhost:8000`
